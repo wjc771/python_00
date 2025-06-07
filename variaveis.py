@@ -20,6 +20,7 @@ dicionario = {"chave1": "valor1", "chave2": "valor2"}  # Dicionário é mutável
 dicionario["chave3"] = "valor3"  # Adiciona uma nova chave-valor ao dicionário  
 
 print(dicionario)
+print("nova branch")
 
 
 
