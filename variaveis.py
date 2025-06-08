@@ -22,6 +22,7 @@ dicionario["chave3"] = "valor3"  # Adiciona uma nova chave-valor ao dicionário
 print(dicionario)
 print("nova branch")
 print("alteracao na nova-branch")
+print("alteracao na nova-branch2")
 
 
 
